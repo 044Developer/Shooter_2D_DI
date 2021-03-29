@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58e5c52718fd5444fb36b9884224caa7, type: 3}
+  m_Name: LevelSettingsInstaller
+  m_EditorClassIdentifier: 
+  LevelSettings:
+  - _levelID: 0
+    _pointsToWin: 0
+    _slowObstacle: {fileID: 0}
+    _normalObstacle: {fileID: 0}
+    _fastObstacle: {fileID: 0}
+    _slowObstacleCount: 0
+    _normalObstacleCount: 0
+    _fastObstacleCount: 0
+    _maxObjectsSpawnedPerPool: 0
+    _delayBetweenObstacles: 0
+    _delayBetweenSpawns: 0
+  - _levelID: 0
+    _pointsToWin: 0
+    _slowObstacle: {fileID: 0}
+    _normalObstacle: {fileID: 0}
+    _fastObstacle: {fileID: 0}
+    _slowObstacleCount: 0
+    _normalObstacleCount: 0
+    _fastObstacleCount: 0
+    _maxObjectsSpawnedPerPool: 0
+    _delayBetweenObstacles: 0
+    _delayBetweenSpawns: 0
+  - _levelID: 0
+    _pointsToWin: 0
+    _slowObstacle: {fileID: 0}
+    _normalObstacle: {fileID: 0}
+    _fastObstacle: {fileID: 0}
+    _slowObstacleCount: 0
+    _normalObstacleCount: 0
+    _fastObstacleCount: 0
+    _maxObjectsSpawnedPerPool: 0
+    _delayBetweenObstacles: 0
+    _delayBetweenSpawns: 0
